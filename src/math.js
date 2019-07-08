@@ -3,7 +3,7 @@ export function sum(a, b) {
 }
 
 export function powerWithClosure(exponent) {
-  function myFuncPow(a, b) {
+  function myFuncPow() {
     return Math.pow(2, 2);
   }
 
